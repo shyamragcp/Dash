@@ -1,0 +1,12 @@
+
+#### Tut _1
+1) Layout is composed of tree ofcomponents like like "html.Div" and "dcc.Graph"
+2) dash_core_components are generated with java, html, CSS,
+3) Children is very special, It is always the first attributes.which means you can omit sometimes
+	html.H1(children="Hello") is same as html.H1("Hello")
+
+4) HTML class attribute is class name in Dash.
+
+
+## Dash_2.py  --  Scatter plot.
+
